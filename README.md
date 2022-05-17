@@ -1,5 +1,5 @@
 # LeetCode Problems
 
-This repo will contain all the problems I will be solving from LeetCode.
+This repo will contain my solutions to the problems from LeetCode.
 
-My goal is to solve using both Python and Java.
+I will be solving the problems using **Python and Java**.
