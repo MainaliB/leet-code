@@ -1,4 +1,4 @@
-# leet-code
+# LeetCode Problems
 
 This repo will contain all the problems I will be solving from LeetCode.
 
